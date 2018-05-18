@@ -36,17 +36,17 @@ a:hover
    
     #name {
 
-        float: left;
+         float: left;
         background-color: #4aaaa5;
         color: #f2f2f2;
         text-align: center;
         text-decoration: none;
         font-size: 30px;
-        margin-right: 200px;
-        margin-left: 375px;
+       
         padding: 10px;
         font-family: 'Georgia', Times, Times New Roman, serif;
         border: 1px solid #cccccc;
+        
         
     }
     
@@ -56,11 +56,11 @@ a:hover
         background-color: white;
         color:#333 !important;
         font-size: 15px;
-        float: right;
-        margin-right: 20%;
-        margin-top: 35px;
+        text-align: center;
+        margin-top: 15px;
         font-family: 'Georgia', Times, Times New Roman, serif;
         text-decoration: none !important;
+        margin-right:41.5%;
         
         
        
